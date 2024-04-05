@@ -89,10 +89,6 @@ vault write pki_int/roles/example-dot-com \
      max_ttl="720h"
 ```
 
-```shell
-vault write pki_int/issue/example-dot-com common_name="test.example.com" ttl="24h"
-```
-
 ---
 
 ```shell
