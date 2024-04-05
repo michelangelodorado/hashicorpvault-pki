@@ -186,3 +186,10 @@ EOF
 vault agent -config=vault-agent.hcl
 ```
 
+```shell
+vault agent -config=vault-agent.hcl
+```
+
+```shell
+ls examples/
+```
