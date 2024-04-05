@@ -9,7 +9,7 @@ Guide to:
 Note: This are all tested using macOS
 
 
-```bash
+```shell
 brew tap hashicorp/tap
 brew install hashicorp/tap/vault
 ```
