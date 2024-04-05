@@ -45,7 +45,7 @@ vault read pki/issuer/$(vault list -format=json pki/issuers/ | jq -r '.[]') \
 ```
 
 ```shell
-vault write pki/roles/2023-servers allow_any_name=true
+vault write pki/roles/2024-servers allow_any_name=true
 ```
 
 ```shell
